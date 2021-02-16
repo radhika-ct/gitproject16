@@ -1,0 +1,6 @@
+- host: all
+  tasks: 
+  - name: crete a new file devops
+  file:
+    path: "/home/ansadmin/devops.txt
+    sate: touch
