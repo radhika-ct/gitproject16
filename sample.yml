@@ -1,0 +1,6 @@
+- hosts: remote
+  tasks:
+  - name: create a new file
+  file:
+    path: "/home/ansdmin/sample.txt"
+    status: touch
