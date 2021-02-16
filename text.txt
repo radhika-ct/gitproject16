@@ -3,3 +3,4 @@ git files
 manage the productes
 sample file
 tags
+checkout
